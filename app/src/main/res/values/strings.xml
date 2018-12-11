@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadApp</string>
+    <string name="generic_text">Random Celebrity</string>
+    <string name="play_again_text">Play Again!</string>
+</resources>
