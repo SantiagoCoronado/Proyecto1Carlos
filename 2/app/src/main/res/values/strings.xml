@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WheatherAPI</string>
+    <string name="api_part1">http://api.openweathermap.org/data/2.5/weather?q=</string>
+    <string name="api_part2">&amp;APPID=eb13309d099846929fe6f8899b4d1cd7</string>
+</resources>
