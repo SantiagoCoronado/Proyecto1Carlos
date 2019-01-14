@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <!-- Resources for LogInSignUpOptionsActivity -->
+    <string name="log_in_text">Iniciar Sesión</string>
+    <string name="sign_up_text">Registro</string>
+    <string name="facebook_text">Iniciar con Facebook</string>
+
+    <!-- Resources for Register1stActivity -->
+    <string name="name_edit">Nombre</string>
+    <string name="last_name_edit">Apellido paterno</string>
+    <string name="mothers_last_name_edit">Apellido materno</string>
+    <string name="email_edit">Correo</string>
+    <string name="password_edit">Contraseña</string>
+    <string name="next_button">Siguiente</string>
+    <string name="facebook_button">Registro con Facebook</string>
+    <string name="day_text">Dia</string>
+    <string name="month_text">Mes</string>
+    <string name="year_text">Año</string>
+    <string name="empty_error">Este campo no puede estar vacio</string>
+    <string name="whitespace_eror">Este campo no puede comenzar o terminar con espacio</string>
+    <string name="many_whitespace_error">No puede haber mas de un espacio entre palabras</string>
+    <string name="invalid_email">Correo inválido</string>
+    <string name="invalid_password">Mínimo 8 caracteres</string>
+    <string name="invalid_date">Fecha inválida</string>
+    <string name="general_error">Error al llenar formato</string>
+    <string name="description_error">Uno o más campos contienen información inválida, por favor corregir antes de continuar</string>
+    <string name="ok_option">Revisar</string>
+    <string name="username_alredy_exists">Nombre de usuario existente</string>
+    <string name="username_alredy_exists_detail">Este nombre de usuario ya está registrado, por favor utiliza otro o inicia sesión</string>
+    <string name="email_alredy_exists">Correo existente</string>
+    <string name="email_alredy_exists_detail">Este correo ya está registrado, por favor utiliza otro o inicia sesión</string>
+
+    <!-- Resources for Register2ndActivity -->
+    <string name="select_profile_button">Seleccionar</string>
+    <string name="cancel_register_button">Cancelar</string>
+    <string name="finish_register_button">Terminar</string>
+    <string name="ask_for_permission">Es necesario el permiso de lectura de archivos para seleccionar una foto de perfil</string>
+    <string name="cancel_message">Cancelar Registro</string>
+    <string name="cancel_message_detail">¿Desea cancelar su registro y volver a la pantalla principal?</string>
+    <string name="accept_message">Si</string>
+    <string name="decline_message">No</string>
+
+    <!-- Resources for LogInActivity -->
+    <string name="wrong_credentials">Error al acceder</string>
+    <string name="wrong_credentials_detail">El correo o la contraseña son incorrectos</string>
+
+    <!-- Resources for MainMenu -->
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_home">Eventos</string>
+    <string name="title_dashboard">Publicaciones</string>
+    <string name="title_notifications">Perfil</string>
+
+    <!-- Resources for popup_details_event.xml and fragment_event_details.xml -->
+    <string name="details_button">Ver más</string>
+    <string name="organizer_name">Encargado:</string>
+    <string name="date_event">Fecha:</string>
+    <string name="quota">Cupo:</string>
+    <string name="assist_option">Asistir</string>
+    <string name="event_address">Direccion:</string>
+    <string name="toast_assistance">Evento añadido a tu lista de eventos pendientes</string>
+
+    <!-- Resources for fragment_self_profile.xml and SelfProfile -->
+    <string name="friends_button">Amigos</string>
+    <string name="messages_button">Mensajes</string>
+    <string name="prev_ev_button">Asistió</string>
+    <string name="next_ev_button">Próximos</string>
+    <string name="age">Años</string>
+
+    <!-- Resources for popup_details_event.xml -->
+    <string name="new_post">Nueva Publicación</string>
+    <string name="post_button">Publicar</string>
+
+    <!-- Resources for fragment_foreign_profile.xml -->
+    <string name="add_friend">Agregar</string>
+
+    <!-- Resources for fragment_foreign_profile.xml -->
+    <string name="friends_text">Amigos</string>
+    <string name="requests_text">Solicitudes</string>
+    <string name="sent_request">Solicitud enviada</string>
+    <string name="existing_request">Solicitud en espera de confirmación</string>
+
+    <!-- Resources for FriendsListFragment -->
+    <string name="request_decision">Desición sobre solicitud</string>
+    <string name="request_message">¿Qué desea hacer con la solicitud recibida?</string>
+    <string name="request_accepted">Aceptar</string>
+    <string name="request_rejected">Rechazar</string>
+    <string name="friend_added">Amigo añadido</string>
+    <string name="request_erased">Solicitud eliminada</string>
+</resources>
